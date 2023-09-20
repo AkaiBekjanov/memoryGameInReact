@@ -1,0 +1,5 @@
+.cards {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(4, 150px);
+}/*# sourceMappingURL=Cards.css.map */

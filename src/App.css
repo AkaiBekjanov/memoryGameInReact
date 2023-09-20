@@ -1,0 +1,18 @@
+.container{
+  max-width: 1170px;
+  margin: 0 auto;
+}
+
+.cardDisplay{
+   display: flex;
+   row-gap: 20px;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.cardDisplay__title{
+     text-align: center;
+     color: #FFF;
+     font-size: 33px;
+     font-weight: 600;
+}
